@@ -1,0 +1,2 @@
+logger.addInfo("Welcome to github");
+logger.addInfo("Welcome to use API token");
